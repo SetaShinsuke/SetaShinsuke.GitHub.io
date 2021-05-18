@@ -1,1 +1,4 @@
-DO NOT README
+Hugo blog
+
+.\hugo.exe server -D
+port: 1313
