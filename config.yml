@@ -1,4 +1,4 @@
-baseURL: 
+baseURL: https://setashinsuke.github.io/
 theme: pure
 title: Seta Blog
 copyright: CC BY 4.0 CN
@@ -11,6 +11,8 @@ PygmentsCodeFences: false
 googleAnalytics: ""      # UA-XXXXXXXX-X 
 permalinks:
   posts: /:year/:month/:filename/
+
+publishDir: docs
 
 taxonomies:
     category : categories

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Seta Blog</title>
-    <link>/categories/</link>
+    <link>https://setashinsuke.github.io/categories/</link>
     <description>Recent content in Categories on Seta Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>CC BY 4.0 CN</copyright>
     
-        <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://setashinsuke.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://setashinsuke.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://setashinsuke.github.io/about/</guid>
       <description>啥也没有</description>
     </item>
     
